@@ -1,0 +1,187 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/ninja/Desktop/react-native/motivator
+> git status -z -u
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :App.js
+> git ls-files --stage -- ./
+> git check-ignore -z --stdin
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git check-ignore -z --stdin
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git check-ignore -z --stdin
+> git check-ignore -z --stdin
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/
+> git show :App.js
+> git ls-files --stage -- ./
+> git show :src/welcome.js
+> git ls-files --stage -- src/

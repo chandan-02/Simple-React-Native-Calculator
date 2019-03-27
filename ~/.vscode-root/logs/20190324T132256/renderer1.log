@@ -1,0 +1,4 @@
+[2019-03-24 13:23:01.122] [renderer1] [info] no standard startup: not the explorer viewlet
+[2019-03-24 13:23:21.094] [renderer1] [info] no standard startup: not just one text editor
+[2019-03-24 13:23:29.755] [renderer1] [error] Inotify limit reached (ENOSPC)
+[2019-03-24 13:39:32.544] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
